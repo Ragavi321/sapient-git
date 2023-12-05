@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Ragavi Vijayaragavan 
 visible in branch feature1 
+=======
+Ragavi
+>>>>>>> af327f652b30aaffc9c331430006adb51ae2b20b
